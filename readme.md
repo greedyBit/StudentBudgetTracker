@@ -32,8 +32,6 @@ Projet réalisé en réponse à la fiche projet POO développement d'une applica
 
 Ce schéma correspond à la première version obtenue lors de la transformation du code vers un diagramme.
 
-<img width="2895" height="1499" alt="Diag_class_StudentBudgetTracker" src="https://github.com/user-attachments/assets/da50b561-0b66-4728-ab1c-b5b63f39c845" />
-
 </details>
 
 <details>
