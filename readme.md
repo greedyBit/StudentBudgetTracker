@@ -31,13 +31,14 @@ Projet réalisé en réponse à la fiche projet POO développement d'une applica
 <summary>Diagramme de classes (version initiale — générée depuis le code)</summary>
 
 Ce schéma correspond à la première version obtenue lors de la transformation du code vers un diagramme.
+<img width="2895" height="1499" alt="image" src="https://github.com/user-attachments/assets/c0f7eb37-ba8a-489a-97a2-734dc995c5d4" />
 
 </details>
 
 <details>
 <summary>Diagramme de cas d'utilisation</summary>
 
-![Use Case](./UML_diagrammes/USE%20CASE.png)
+<img width="1722" height="1398" alt="image" src="https://github.com/user-attachments/assets/1b696f10-f5ca-45b9-a282-f1e6b1aef0e1" />
 
 </details>
 
